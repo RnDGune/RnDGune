@@ -1,4 +1,7 @@
-### Hi there 👋
+### Helo there!
+- My name is Sergey. 
+- I am a bachelor of physics, studied at Novosibirsk State University. 
+- Now I'm studying C++ in the course of Yandex Practicum. 
 
 <!--
 **RnDGune/RnDGune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
